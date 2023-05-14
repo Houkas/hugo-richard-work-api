@@ -25,6 +25,9 @@
     },
     "lien_photo": {
       "type": "string"
+    },
+    "description": {
+      "type": "text"
     }
   }
 }
