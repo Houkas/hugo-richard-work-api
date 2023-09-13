@@ -42,6 +42,12 @@
     },
     "lien_photo_compressed": {
       "type": "string"
+    },
+    "Lieux": {
+      "type": "string"
+    },
+    "film_simulation": {
+      "type": "string"
     }
   }
 }
